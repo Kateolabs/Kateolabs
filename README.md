@@ -1,113 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:2563eb,100%:06b6d4&height=220&section=header&text=Kateolabs&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Tools%20%E2%80%A2%20Tech%20Content%20%E2%80%A2%20Digital%20Products&descSize=18&descAlignY=60&animation=fadeIn" alt="Kateolabs banner" />
+# Kateolabs
 
-<a href="https://github.com/kateolabs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Build+smart.+Ship+fast.+Share+knowledge.;Web+Apps+%7C+Dashboard+%7C+Automation;Open+to+collaboration+%26+new+ideas" alt="Typing SVG" />
-</a>
+**Jasa pembuatan website & aplikasi, produk digital siap pakai, dan platform turnamen MLBB.**
 
-<br/>
+Kami membangun website, aplikasi web & mobile, serta sistem custom yang cepat, rapi, dan mudah dikelola.
 
-[![Website](https://img.shields.io/badge/Website-kateolabs.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kateolabs.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kateolabs-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kateolabs)
-[![Status](https://img.shields.io/badge/Status-Building%20in%20Public-06b6d4?style=for-the-badge)](https://kateolabs.com)
+[🌐 Website](https://kateolabs.com) · [💬 Konsultasi Gratis](https://wa.me/628557666910) · [✉️ Email](mailto:kateolabs@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Tentang Kateolabs
+## 🚀 Apa yang kami kerjakan
 
-**Kateolabs** adalah brand teknologi yang berfokus pada **pembuatan software tools** dan **konten teknologi** yang praktis, rapi, dan siap dipakai. Kami membangun solusi digital dari ide sederhana hingga produk yang benar-benar berguna, lalu membagikan ilmunya.
-
-> 💡 *"Teknologi terbaik adalah yang menyelesaikan masalah nyata dengan cara yang sederhana."*
-
----
-
-## 🚀 Yang Kami Kerjakan
-
-| | Fokus | Deskripsi |
+| | Layanan | Cakupan |
 |---|---|---|
-| 🧩 | **Web Apps & Dashboard** | Aplikasi web modern, dashboard monitoring, dan sistem informasi |
-| ⚙️ | **Automation & Integration** | Otomatisasi proses, scraping data, WhatsApp API, dan integrasi sistem |
-| 📚 | **Konten & Edukasi** | Artikel, tutorial, course, dan ebook seputar teknologi |
-| 🛒 | **Produk Digital** | Template, tools, dan layanan digital lewat [kateolabs.com](https://kateolabs.com) |
-| 🎨 | **Jasa Pembuatan Aplikasi** | Website dan aplikasi web sesuai kebutuhan bisnis |
+| 🌐 | **Pembuatan Website** | Company profile, landing page, toko online, hingga portal berita yang cepat dan ramah SEO. |
+| 📱 | **Aplikasi Web & Mobile** | Aplikasi kasir, booking, manajemen internal, atau aplikasi Android sesuai alur bisnis Anda. |
+| 🧩 | **Sistem Custom & Integrasi** | Dashboard, otomasi laporan, dan integrasi antar layanan (WhatsApp, payment gateway) untuk memangkas pekerjaan manual. |
+| 🏆 | **Platform Turnamen MLBB** | Pendaftaran tim online, undian, bracket otomatis, skor real-time, dan halaman publik. |
+| 📦 | **Produk Digital** | Template, source code, dan ebook siap pakai untuk mempercepat proyek Anda. |
 
----
+## 🏆 Platform Turnamen Mobile Legends
 
-## 🛠️ Tech Stack
+Adakan turnamen MLBB tanpa repot, semuanya dari satu dashboard:
 
-<div align="center">
+- ✅ Halaman pendaftaran tim publik, tinggal bagikan tautan
+- ✅ Undian bucket live untuk technical meeting
+- ✅ Bracket single elimination dibuat otomatis
+- ✅ Input skor BO1 / BO3 / BO5, pemenang maju otomatis
+- ✅ Mode layar TV & cetak bracket PDF
+- ✅ Bayar sesuai jumlah tim lewat Virtual Account, e-wallet, atau QRIS
 
-**Frontend**
+👉 [Lihat harga turnamen](https://kateolabs.com/turnamen-mlbb)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🛠️ Teknologi
 
-**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+## 🔄 Cara kami bekerja
 
-**Tools & Infrastructure**
+```text
+1. Konsultasi     →  2. Desain          →  3. Pengembangan     →  4. Rilis & Dukungan
+   Rumuskan fitur,     Tampilan & alur       Progres rutin,         Deploy ke server,
+   estimasi biaya      disetujui bersama     bisa coba versi demo   panduan & garansi bug
+   & jadwal
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 💡 Kenapa Kateolabs
 
-</div>
+- **Konsultasi gratis**: diskusi kebutuhan tanpa biaya dan tanpa komitmen
+- **Harga transparan**: rincian biaya jelas di awal
+- **Garansi bug**: perbaikan gratis setelah rilis
+- **Dukungan berkelanjutan**: siap bantu saat Anda butuh
 
----
+## 📬 Hubungi kami
 
-## 📦 Proyek Unggulan
+Punya ide website atau aplikasi? Ceritakan kebutuhan Anda, kami bantu hitung estimasi biaya dan waktunya.
 
-- 🌐 **[kateolabs.com](https://kateolabs.com)**: platform konten, produk, dan membership dengan pengiriman ebook yang aman
-- 📺 **Digital Signage & Dashboard TV**: tampilan monitoring real-time berbasis Next.js, Prisma, dan MariaDB
-- 💬 **WhatsApp API & Relay**: otomatisasi pesan dan integrasi notifikasi
-- 🎓 **Course & Blog Platform**: backend API untuk pembelajaran dan publikasi konten
-- 💌 **Digital Invitation**: undangan digital untuk pernikahan dan acara
-- 🏆 **Tournament Website**: registrasi tim, bagan undian, dan jadwal pertandingan
-
-> 📌 *Pin repository terbaik kamu di profil agar tampil di sini.*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kateolabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateolabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kateolabs&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-</div>
-
----
-
-## 🤝 Kolaborasi
-
-Punya ide produk, butuh dashboard, otomatisasi, atau website untuk bisnis kamu? Mari ngobrol.
+- 💬 WhatsApp: [+62 XXX-XXXX-XXXX](https://wa.me/628557666910)
+- ✉️ Email: [halo@kateolabs.com](mailto:kateolabs@gmail.com)
+- 🌐 Website: [kateolabs.com](https://kateolabs.com)
+- 📸 Instagram: [@kateolabs](https://instagram.com/kateolabs)
 
 <div align="center">
 
-[![Kunjungi Website](https://img.shields.io/badge/Kunjungi-kateolabs.com-2563eb?style=for-the-badge&logo=rocket&logoColor=white)](https://kateolabs.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Suka dengan karya kami? Beri star di repository favoritmu!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50%:2563eb,100%:0f172a&height=120&section=footer" alt="footer" />
+<sub>Dibuat dengan ❤️ oleh Tim Kateolabs · 🇮🇩 Indonesia</sub>
 
 </div>
