@@ -69,8 +69,8 @@ Adakan turnamen MLBB tanpa repot, semuanya dari satu dashboard:
 
 Punya ide website atau aplikasi? Ceritakan kebutuhan Anda, kami bantu hitung estimasi biaya dan waktunya.
 
-- 💬 WhatsApp: [+62 XXX-XXXX-XXXX](https://wa.me/628557666910)
-- ✉️ Email: [halo@kateolabs.com](mailto:kateolabs@gmail.com)
+- 💬 WhatsApp: [+62 855-7666-910](https://wa.me/628557666910)
+- ✉️ Email: [kateolabs@gmail.com](mailto:kateolabs@gmail.com)
 - 🌐 Website: [kateolabs.com](https://kateolabs.com)
 - 📸 Instagram: [@kateolabs](https://instagram.com/kateolabs)
 
